@@ -24,6 +24,16 @@ A premium magazine-cover concept exploring solitude, digital identity, nightlife
 
 A clean skincare advertisement focused on minimalism, product presentation, negative space, and modern typography.
 
+### 05 — Code Clash
+**Standalone Event Poster**
+
+A dark, high-impact event poster designed for a coding competition, focusing on bold typography, competitive energy, and a futuristic tech aesthetic.
+
+### 06 — Code Clash — Pirate Theme
+**Themed Event Poster**
+
+A pirate-inspired variation of the Code Clash event poster, combining coding competition visuals with a bold pirate/adventure theme while maintaining the event's core identity.
+
 ---
 
 ## ✦ Skills Practiced
@@ -35,6 +45,8 @@ A clean skincare advertisement focused on minimalism, product presentation, nega
 - Branding
 - Advertising Design
 - Editorial Design
+- Event Poster Design
+- Themed Poster Design
 - Color Theory
 - Lighting & Mood
 - AI-Assisted Visual Design
